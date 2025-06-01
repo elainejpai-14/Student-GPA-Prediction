@@ -16,9 +16,10 @@ pip install pandas numpy matplotlib seaborn statsmodels
 ```
 ## How to Use
 ### 1. Clone the repository or navigate to the notebook location
+```bash
 git clone https://github.com/elainejpai-14/Multiple-Linear-Regression.git<br>
 cd Multiple-Linear-Regression
-
+```
 ### 2. Open the notebook
 #### Option A:
 Open the jupyter notebook "Multiple LR with Dummy Variables.ipynb" locally
