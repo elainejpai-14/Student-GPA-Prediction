@@ -20,10 +20,10 @@ git clone https://github.com/elainejpai-14/Multiple-Linear-Regression.git
 cd Multiple-Linear-Regression
 
 ### 2. Open the notebook
-#### Option A: Open in Jupyter Notebook (locally)
-jupyter notebook "Multiple LR with Dummy Variables.ipynb"
+#### Option A:
+Open the jupyter notebook "Multiple LR with Dummy Variables.ipynb" locally
 
-#### Option B: Open in Google Colab
+#### Option B:
 Go to https://colab.research.google.com/ and upload the notebook file
 
 # 3. Run the notebook cells step-by-step
