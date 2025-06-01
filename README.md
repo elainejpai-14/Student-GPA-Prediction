@@ -26,5 +26,5 @@ Open the jupyter notebook "Multiple LR with Dummy Variables.ipynb" locally
 #### Option B:
 Go to https://colab.research.google.com/ and upload the notebook file
 
-# 3. Run the notebook cells step-by-step
+### 3. Run the notebook cells step-by-step
 
