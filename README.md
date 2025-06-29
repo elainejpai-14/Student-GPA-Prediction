@@ -1,4 +1,4 @@
-# Multiple Linear Regression
+# Student GPA Prediction 
 
 This Project demonstrates how to perform Multiple Linear Regression in Python, including handling of categorical variables using dummy encoding. It provides a step-by-step guide for building interpretable regression models from structured data. This model predicts the GPA of a student based on their SAT scores and whether they attended atleast 75% of the lectures at their university.
 
